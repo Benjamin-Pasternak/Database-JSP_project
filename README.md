@@ -1,7 +1,7 @@
 # Database-JSP_project
 
 # The code in this repository was for my databases class (336).
-In this project, you are asked to implement a Bar-Beer-Drinker PLUS database
+In this project, I was asked to implement a Bar-Beer-Drinker PLUS database
 system. More specifically I used HTML and CSS for the client side, Java for the
 server side, MySQL for the database server, and JDBC for connectivity between
 my application and the database server.
